@@ -6,7 +6,7 @@ Technologist in Analysis and Development of Information Systems.
 - Seeking best practices and practicing coding
 - Open to learn from anyone and anywhere
 - Studiying SWE
-- Playing 
+- Playing videogames!
 
 
 <h3>🤝 &nbsp;Contact Me</h3>
