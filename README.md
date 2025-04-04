@@ -1,4 +1,3 @@
-<div align="center">
 
 ## 💻 Software Engineer in Progress
 
@@ -11,6 +10,7 @@ Currently studying **Analysis and Development of Information Systems** and build
 🎮 Gamer at heart — always down for a good challenge!
 
 ---
+<div align="center">
 
 ### 🤝 Contact Me
 
