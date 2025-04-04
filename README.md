@@ -1,12 +1,18 @@
 ## 💻 Software Engineer in progress...
 
-Technologist in Analysis and Development of Information Systems.
+Currently studying Analysis and Development of Information Systems and building my path as a future Software Engineer.
 
-- Learning everything that I find fun and interesting
-- Seeking best practices and practicing coding
-- Open to learn from anyone and anywhere
-- Studiying SWE
-- Playing videogames!
+🚀 Always learning things I find fun and exciting
+
+🧠 Passionate about best practices and writing clean code
+
+🌍 Open to learning from anyone, anywhere
+
+📚 Constantly improving my SWE skills
+
+🎮 Gamer at heart — always down for a good challenge!
+
+
 
 
 <h3>🤝 &nbsp;Contact Me</h3>
